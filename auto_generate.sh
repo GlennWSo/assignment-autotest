@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # A script to auto generate test runners for unity tests and a single test/unity_runner.c
 # file which combines all runners into a single executable
 # Pass as arguments a list of test files for which we need to create runners
